@@ -1,7 +1,7 @@
-name: pubspec_writer
+name: pubspec_writer_extensions
 description: Extension methods for writing pubspec_parse's back to data formats
 version: 1.0.0
-repository: https://github.com/matthewnitschke/pubspec_writer
+repository: https://github.com/matthewnitschke/pubspec_writer_extensions
 
 environment:
   sdk: ">=2.14.0 <3.0.0"
