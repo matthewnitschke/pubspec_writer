@@ -1,6 +1,6 @@
 # Pubspec Writer
 
-Extension methods for the official [`pubspec_parse`](https://github.com/dart-lang/pubspec_parse) method's that facilitate writing the objects back to data formats.
+Extension methods, for the official [`pubspec_parse`](https://github.com/dart-lang/pubspec_parse) objects, that facilitate writing the objects back to data formats.
 
 ## Usage
 
