@@ -1,5 +1,5 @@
 import 'package:pubspec_parse/pubspec_parse.dart';
-import 'package:pubspec_writer/screenshot_writer.dart';
+import 'package:pubspec_writer_extensions/screenshot_writer.dart';
 import 'package:test/test.dart';
 
 void main() {

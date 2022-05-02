@@ -1,6 +1,6 @@
 import 'package:pub_semver/pub_semver.dart';
 import 'package:pubspec_parse/pubspec_parse.dart';
-import 'package:pubspec_writer/dependency_writer.dart';
+import 'package:pubspec_writer_extensions/dependency_writer.dart';
 import 'package:test/test.dart';
 
 void main() {
