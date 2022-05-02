@@ -1,0 +1,14 @@
+name: pubspec_writer
+version: 1.0.0
+
+repository: http://www.google.com
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+
+dependencies: 
+  pubspec_parse: ^1.2.0
+
+dev_dependencies: 
+  pub_semver: ^2.1.1 # used to create test data for `VersionConstraint`
+  test: ^1.21.1

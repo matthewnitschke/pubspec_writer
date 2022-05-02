@@ -1,0 +1,5 @@
+.packages
+.tool-versions
+.vscode
+.dart_tool
+pubspec.lock
